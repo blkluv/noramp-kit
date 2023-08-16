@@ -1,4 +1,4 @@
-import { NoRampOneClick } from '../../.';
+import { NoRampOneClick } from './NoRampOneClick'; // Update the path accordingly
 
 const App = () => {
   const handleSuccess = (data: any) => {
